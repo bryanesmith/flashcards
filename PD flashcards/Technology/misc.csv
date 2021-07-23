@@ -175,3 +175,7 @@ ZooKeeper: coordination kernel,"Instead of implementing coordination primatives,
 "Node: http module","Node module providing both server and client functionality"
 "Express","Popular minimalistic & unopinionated web framework for Node.js"
 "Fan-In Layer","Layer that supports accepting a large volume of data. May be a cluster of web servers behind a load balancer."
+"Hive","Apache data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL."
+"lean software development","Translation of lean manufacturing principles to practices within software development domain."
+"set-based design","When considering solutions, exploring multiple options and eliminating poorer choices over time, while incorporating their learnings."
+"value-stream mapping","Analyzing and documenting the series of events that take product or service from beginning to customer, with the goal of eliminating waste."
