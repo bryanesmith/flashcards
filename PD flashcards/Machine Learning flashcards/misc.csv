@@ -55,3 +55,4 @@
 "TensorFlow eXtended (TFX)","Google's end-to-end modular platform for building & deploying TensorFlow models."
 "terraform-gke-kubeflow-cluster","Spotify's open source Terraform module for creating GKE clusters for running Kubeflow."
 "train-serve skew","Difference between performance of model during training & performance during serving."
+"MLflow","open source end-to-end ML framework for Python and R created by Databricks, supporting logging experiments, packaging projects, packaging models, and a registry"
