@@ -187,6 +187,6 @@ ZooKeeper: coordination kernel,"Instead of implementing coordination primatives,
 "gRPC","open source high performance RPC built on HTTP/2 by Google, and current a CNCF incubation project"
 "HathiTrust","a partnership of academic and research institutions, offering a collection of millions of titles digitized from libraries around the world."
 "Jinja","fast, expressive, extensible Python templating engine"
-"multi-master database cluster","a database cluster where all database instances can write data"
+"multi-active database","a database cluster where all database instances can write data"
 "Prometheus","open-source systems monitoring and alerting toolkit originally built at SoundCloud based on time series data"
 "WSJF","Weighted shortest job first.(acronym) This relative value is equal to the absolute value divided by the size of the job."
