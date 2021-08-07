@@ -190,3 +190,7 @@ ZooKeeper: coordination kernel,"Instead of implementing coordination primatives,
 "multi-active database","a database cluster where all database instances can write data"
 "Prometheus","open-source systems monitoring and alerting toolkit originally built at SoundCloud based on time series data"
 "WSJF","Weighted shortest job first.(acronym) This relative value is equal to the absolute value divided by the size of the job."
+"continuous availability","when a system high availability, but with no downtime (e.g., multi-active database)"
+"gossip protocol","procedure or process of computer peer-to-peer communication that is based on the way epidemics spread."
+"Samza","Apache's distributed stream processing framework"
+"YARN","Hadoop's schedule & resource mgmt"
