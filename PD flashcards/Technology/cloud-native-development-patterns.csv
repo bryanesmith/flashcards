@@ -32,7 +32,7 @@ Sinon.JS,Popular JavaScript test double library.
 component testing,Testing that verified that a component produces desired behavior while still isolating from neighboring components. Happens one level higher than unit testing.
 VCR library,"Integration testing library that procide a recording mode to fetch and cache remote responses, and a playback mode for testing via cache."
 contract testing,"Asserting that response or event matches expected payload, often user consumer-specified tests and assertions."
-transitive testin,Coordinating series of integration & contract tests together across teams to create an e2e test out of isolated tests.
+transitive testing,Coordinating series of integration & contract tests together across teams to create an e2e test out of isolated tests.
 Pact,Popular consumer-first contract testing tool for HTTP and message-based integrations.
 Tech Radar,ThoughtWorks publication on technology trends that comes out every six months or so.
 Supertest library,"JavaScript library providing HTTP assertions via a fluent API, leveraging Superagent library."
