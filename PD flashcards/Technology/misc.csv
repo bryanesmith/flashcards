@@ -277,3 +277,5 @@ ZooKeeper: coordination kernel,"Instead of implementing coordination primatives,
 "concept drift (ML)","Shift in relationship between model inputs & outputs oer time. (E.g., higher standards for loan eligibility due to economic factors)"
 "model drift (ML)","Shift in model predictions"
 "backtesting","testing predictive model on historical data. I.e., estimate performance of model if had been deployed & used in past period."
+"release trains","releases that go out on regular schedule (e.g., weekly or biweekly), and you either make it or miss it (it doesn't stop for anyone)"
+"anti-left join","A special join that is essential a left join - inner join"
