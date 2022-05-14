@@ -297,3 +297,6 @@ ZooKeeper: coordination kernel,"Instead of implementing coordination primatives,
 "parallelism","When multiple tasks are running at same time (e.g., on multiple cores)"
 "multiprocessing","type of parallelism, which implies spreading tasks across CPUs"
 "coroutine","specialized generator function that can suspend its execution before completing"
+"pyenv","tool that uses symlinks to manage multiple versions of Python"
+"QuantumBlack","AI consulting company acquired by McKinsey in 2015. Creators of Kedro."
+"Three fundamental building blocks of Kedro","Node, Pipeline, DataCatalog (Kedro)"
