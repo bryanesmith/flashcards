@@ -7,3 +7,4 @@
 "Cloud VPN","Securely connects peer network to Virtual Private Cloud (VPC) network through an IPsec VPN (i.e., secured) connection"
 "Private Service Connect","Google solution to consume managed or custom services outside VPC network, using one of two types of private endpoints"
 "Two types of Private Service Connect endpoints","1) Private Service Connect endpoint (consumer endpoint using NAT to route to service producer); 2) Private Service Connect endpoint with consumer HTTPs service controls (load-balancer with TLS certificates)"
+"product lane","General term for high-level areas of product development"
