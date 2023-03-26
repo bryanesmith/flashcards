@@ -15,3 +15,4 @@
 "Knative","Google's open source k8s-based platform to build, deploy, and manage modern serverless workloads. (build, serving, eventing)"
 "Alibi Detect","Seldon's open source Python library focused on outlier, adversarial, and drift detection"
 "Open Neural Network Exchange (ONNX)","Open ML model format representing models as graphs of operators enabling 1) models training in one framework to be served by another, 2) enabling easier hardware optimization"
+"HUD","Head-up Display (abbr)"
